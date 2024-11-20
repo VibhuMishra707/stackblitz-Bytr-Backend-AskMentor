@@ -18,7 +18,7 @@ let db;
     filename: "./database1.sqlite",
     driver: sqlite3.Database,
   })
-} 
+});
 
 // ---------------------------------------------------------- //
 //       Chapter 4: FoodieFinds: Food Discovery App           //
